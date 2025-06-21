@@ -137,7 +137,7 @@ http://localhost:8080
 
 ## 👨‍💻 Developer
 
-**thrivendra**
+**Velumani**
 
 
 
